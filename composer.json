@@ -1,0 +1,19 @@
+{
+  "name": "dpc/relatives",
+  "description": "Package to maintain real-world relations of entities in Laravel",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Dylan DPC",
+      "email": "dylan.dpc@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Dpc\\Relatives\\": "src/"
+    }
+  }
+}
